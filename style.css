@@ -11,20 +11,7 @@
     margin-top: 65px;  
     position: relative;
 }
-.greater{
-    height: 45px;
-    width: 45px;
-    position: absolute;
-    bottom: 190px;
-    left: 150px;
-}
-.less{
-    height: 45px;
-    width: 45px;
-    position: absolute;
-    bottom: 200px;
-    right: 150px;  
-}
+
 .pic{
     height: 120px;
     width: 120px;
